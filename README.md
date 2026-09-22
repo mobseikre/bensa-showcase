@@ -22,28 +22,28 @@ A customer opens the app, picks a service, drops a pin on their location and sen
 
 ### Customer app
 <p align="center">
-  <img src="screenshots/customer-register.png" width="200" alt="Sign up as customer or technician" />
-  <img src="screenshots/customer-home.png" width="200" alt="Customer home with service categories" />
-  <img src="screenshots/customer-new-request.png" width="200" alt="Creating a new service request" />
-  <img src="screenshots/customer-my-requests.png" width="200" alt="My requests with status filters" />
+  <img src="customer-register.png" width="200" alt="Sign up as customer or technician" />
+  <img src="customer-home.png" width="200" alt="Customer home with service categories" />
+  <img src="customer-new-request.png" width="200" alt="Creating a new service request" />
+  <img src="customer-my-requests.png" width="200" alt="My requests with status filters" />
 </p>
 <p align="center"><sub>Sign up · Home & service categories · New request · My requests</sub></p>
 
 ### Technician app
 <p align="center">
-  <img src="screenshots/technician-active-job.png" width="200" alt="Technician home with an active job" />
-  <img src="screenshots/technician-custody-block.png" width="200" alt="Technician paused until custody is settled" />
-  <img src="screenshots/technician-custody-stats.png" width="200" alt="Custody balance and statistics" />
+  <img src="technician-active-job.png" width="200" alt="Technician home with an active job" />
+  <img src="technician-custody-block.png" width="200" alt="Technician paused until custody is settled" />
+  <img src="technician-custody-stats.png" width="200" alt="Custody balance and statistics" />
 </p>
 <p align="center"><sub>Active job · Paused for unsettled custody · Custody & statistics</sub></p>
 
 ### Admin panel
 <p align="center">
-  <img src="screenshots/admin-dashboard.png" width="760" alt="Admin dashboard with revenue and orders" />
+  <img src="admin-dashboard.png" width="760" alt="Admin dashboard with revenue and orders" />
 </p>
 <p align="center">
-  <img src="screenshots/admin-custody-tracking.png" width="375" alt="Custody tracking and settlement" />
-  <img src="screenshots/admin-users.png" width="375" alt="User and technician management" />
+  <img src="admin-custody-tracking.png" width="375" alt="Custody tracking and settlement" />
+  <img src="admin-users.png" width="375" alt="User and technician management" />
 </p>
 <p align="center"><sub>Dashboard · Custody tracking & settlement · User management</sub></p>
 
